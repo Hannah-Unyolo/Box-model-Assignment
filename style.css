@@ -1,0 +1,8 @@
+#content{
+    border: solid 1px red;
+    margin: 5%;
+    padding: 20px;
+}
+#container{
+border: dotted blue 1px;
+}
